@@ -1,3 +1,3 @@
 # our_project 
-suneo's projecta
-Gyaian's projecta
+suneo's project
+Gyaian's project
