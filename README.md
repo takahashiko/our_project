@@ -1,2 +1,1 @@
-# our_project
-nobita project 
+# our_project 
